@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Test Annotate",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://claudiobentz.github.io/annonatate/annotations/fmb-cb-0600a-fmb-cb-0600a-004-jp2-0-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
